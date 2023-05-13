@@ -10,7 +10,7 @@ http://mybinder.org/v2/gh/binder-examples/conda_environment/HEAD?filepath=index.
 
 ## Notes
 
-This is my first excercise using markdown language and understanding the principles of it. So far I have learned that `mark_` marks the code; for
+This is my first excercise using markdown language and understanding the principles of it. So far I have learned that backtick marks the code; for
 example if I would like to distinguish that a word copy is part of the code I would write it `copy`.
 
 The number sign is used for headings and the amount of number signs defines the level of heading. For title the number is one, for sub-titles two and for sub-sub-titles three. So, for creating a new sub-title I would use marking:
